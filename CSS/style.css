@@ -53,7 +53,19 @@ nav ul  {
     align-items: center;
     margin: 1px 100px 10px 100px;
     text-align: center;
-    
+}
+main div{
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+  margin: 50px;
+  
+}
+.boton{
+  background-color: #004D2B;
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
 }
 
 
